@@ -5,3 +5,6 @@
 Build and run a mass diffusion simulation of cuboids containing spherical voids with Abaqus's Python scripting environment.
 Save results to file.
 Plot concentration profile along axis, as well as concentration vs time.
+
+
+workflow:fem_simulation/fem-radiusIncl1.py > fem_simulation/get*.py > analysis/*.py
